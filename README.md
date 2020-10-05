@@ -1,6 +1,12 @@
-# Lab 1 - Introducing React
+# COMP 2068 - Lab 1 - Introducing React
 
-This lab for COMP 2068 is an elementary React frontend that accepts a name and displays a greeting with that name.
+## Objective
+
+"To demonstrate that you understand how to create a React app, create a component, and can pass properties."
+
+## Description
+
+This is an elementary React front end app that accepts a name and displays a greeting with that name.
 
 ## Usage
 
