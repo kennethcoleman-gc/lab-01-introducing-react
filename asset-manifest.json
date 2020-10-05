@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/main.aeb04420.chunk.js",
-    "main.js.map": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/main.aeb04420.chunk.js.map",
-    "runtime-main.js": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/runtime-main.50b84109.js",
-    "runtime-main.js.map": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/runtime-main.50b84109.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.9cd188dd.chunk.js": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/2.9cd188dd.chunk.js",
-    "static/js/2.9cd188dd.chunk.js.map": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/2.9cd188dd.chunk.js.map",
-    "index.html": "/kennethcoleman-gc.github.io/lab-01-introducing-react/index.html",
-    "precache-manifest.4b23e5b00e185849b72051ec66bc236f.js": "/kennethcoleman-gc.github.io/lab-01-introducing-react/precache-manifest.4b23e5b00e185849b72051ec66bc236f.js",
-    "service-worker.js": "/kennethcoleman-gc.github.io/lab-01-introducing-react/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/js/2.9cd188dd.chunk.js.LICENSE.txt": "/kennethcoleman-gc.github.io/lab-01-introducing-react/static/js/2.9cd188dd.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.aeb04420.chunk.js",
+    "main.js.map": "./static/js/main.aeb04420.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f0d9c3f0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f0d9c3f0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "./static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9cd188dd.chunk.js": "./static/js/2.9cd188dd.chunk.js",
+    "static/js/2.9cd188dd.chunk.js.map": "./static/js/2.9cd188dd.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a1bf136fcbaa25a28b544ee20093570e.js": "./precache-manifest.a1bf136fcbaa25a28b544ee20093570e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "./static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.9cd188dd.chunk.js.LICENSE.txt": "./static/js/2.9cd188dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50b84109.js",
+    "static/js/runtime-main.f0d9c3f0.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.9cd188dd.chunk.js",
     "static/js/main.aeb04420.chunk.js"
