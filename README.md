@@ -4,4 +4,4 @@ This lab for COMP 2068 is an elementary React frontend that accepts a name and d
 
 ## Usage
 
-Visit (insert website link here)
+[Visit the live site](https://kennethcoleman-gc.github.io/lab-01-introducing-react/)
